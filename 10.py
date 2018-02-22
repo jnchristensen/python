@@ -37,6 +37,7 @@ prime = 0;
 while i < limit:
     i = i + 2;
     if isPrime(i):
+        print(i);
         prime = i;
         sum = sum + prime;
         count = count + 1;
