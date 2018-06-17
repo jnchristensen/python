@@ -1,0 +1,23 @@
+{
+  "name": "proj-euler",
+  "description": "",
+  "version": "1.0.0",
+  "main": "18. Maximum Path Sum 1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnchristensen/python.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnchristensen/python/issues"
+  },
+  "homepage": "https://github.com/jnchristensen/python#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}

@@ -14,8 +14,8 @@ file = open("18. triangle.txt", 'r');
 array = [];
 
 #parse through the file and split the rows
-# for i in file:
+for i in file:
     #split i by spaces and append it to an array
-            array.append(file.split(" "));
+    array.append(i.split(" "));
 
 print (array)
